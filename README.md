@@ -38,8 +38,3 @@ Learning Outcomes
 - API integration and real-time data handling  
 - Structuring multi-class applications  
 - Handling user input and validation  
-
-
-## Author
-Your Name  
-(Add your GitHub profile link)
